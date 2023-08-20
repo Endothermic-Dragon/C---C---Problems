@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/Eshaan/OneDrive/Desktop/Programming/C++/Level 1/build",
+  "command": "C:\\PROGRA~1\\msys64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\Level_1.dir\\src\\default_library.cpp.obj -c \"C:\\Users\\Eshaan\\OneDrive\\Desktop\\Programming\\C++\\Level 1\\src\\default_library.cpp\"",
+  "file": "C:/Users/Eshaan/OneDrive/Desktop/Programming/C++/Level 1/src/default_library.cpp",
+  "output": "CMakeFiles/Level_1.dir/src/default_library.cpp.obj"
+},
+{
+  "directory": "C:/Users/Eshaan/OneDrive/Desktop/Programming/C++/Level 1/build",
+  "command": "C:\\PROGRA~1\\msys64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\Level_1.dir\\src\\segment_display.cpp.obj -c \"C:\\Users\\Eshaan\\OneDrive\\Desktop\\Programming\\C++\\Level 1\\src\\segment_display.cpp\"",
+  "file": "C:/Users/Eshaan/OneDrive/Desktop/Programming/C++/Level 1/src/segment_display.cpp",
+  "output": "CMakeFiles/Level_1.dir/src/segment_display.cpp.obj"
+},
+{
+  "directory": "C:/Users/Eshaan/OneDrive/Desktop/Programming/C++/Level 1/build",
+  "command": "C:\\PROGRA~1\\msys64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\Level_1.dir\\src\\recursion.cpp.obj -c \"C:\\Users\\Eshaan\\OneDrive\\Desktop\\Programming\\C++\\Level 1\\src\\recursion.cpp\"",
+  "file": "C:/Users/Eshaan/OneDrive/Desktop/Programming/C++/Level 1/src/recursion.cpp",
+  "output": "CMakeFiles/Level_1.dir/src/recursion.cpp.obj"
+},
+{
+  "directory": "C:/Users/Eshaan/OneDrive/Desktop/Programming/C++/Level 1/build",
+  "command": "C:\\PROGRA~1\\msys64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\Level_1.dir\\src\\pointers.cpp.obj -c \"C:\\Users\\Eshaan\\OneDrive\\Desktop\\Programming\\C++\\Level 1\\src\\pointers.cpp\"",
+  "file": "C:/Users/Eshaan/OneDrive/Desktop/Programming/C++/Level 1/src/pointers.cpp",
+  "output": "CMakeFiles/Level_1.dir/src/pointers.cpp.obj"
+},
+{
+  "directory": "C:/Users/Eshaan/OneDrive/Desktop/Programming/C++/Level 1/build",
+  "command": "C:\\PROGRA~1\\msys64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\Level_1.dir\\src\\driver.cpp.obj -c \"C:\\Users\\Eshaan\\OneDrive\\Desktop\\Programming\\C++\\Level 1\\src\\driver.cpp\"",
+  "file": "C:/Users/Eshaan/OneDrive/Desktop/Programming/C++/Level 1/src/driver.cpp",
+  "output": "CMakeFiles/Level_1.dir/src/driver.cpp.obj"
+}
+]
